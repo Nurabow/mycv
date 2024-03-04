@@ -176,7 +176,7 @@ nav ul li a:hover::after{
 }
 .services-list div a{
     text-decoration: none;
-    color: #fff;
+    color: #a60a3e;
     font-size: 12px;
     margin-top: 20px;
     display: inline-block;
@@ -234,7 +234,7 @@ nav ul li a:hover::after{
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
-    background: #fff;
+    background: #a60a3e;
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -254,7 +254,7 @@ nav ul li a:hover::after{
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
-    color: #fff;
+    color: #a60a3e;
     transition: background 0.5s;
 }
 .btn:hover{
